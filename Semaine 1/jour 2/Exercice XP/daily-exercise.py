@@ -201,8 +201,6 @@ describe_city("Reykjavik", "Iceland")
 describe_city("Paris")
 describe_city("Abidjan", "Côte d'Ivoire")
 
-
-
 # Exercise 5 : Aléatoire 
 
 """Objectif : Créer une fonction qui génère des nombres aléatoires et les compare.
